@@ -1,7 +1,1 @@
 python-telegram-bot==20.0
-PyMuPDF
-pdfplumber
-pytesseract
-Pillow
-opencv-python
-python-dotenv
